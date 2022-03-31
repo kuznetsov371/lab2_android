@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="game_name">Word Scramble</string>
+    <string name="Scrambled_word">Scrambled word</string>
+    <string name="Try_word">Try word</string>
+    <string name="successes">Successes</string>
+    <string name="fails">Fails</string>
+
+    <string-array name="words">
+        <item>announcement</item>
+        <item>outfit</item>
+        <item>harvest</item>
+        <item>priority</item>
+        <item>stadium</item>
+        <item>flush</item>
+        <item>year</item>
+        <item>national</item>
+        <item>grounds</item>
+        <item>sample</item>
+    </string-array>
+</resources>
